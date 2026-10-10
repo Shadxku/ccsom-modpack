@@ -10,6 +10,10 @@ or players will be refused when they join.
 
 ## 2026-10-11
 
+### Changed
+- Pack is now distributed through GitHub with packwiz (auto-updates in Prism Launcher)
+- Renamed resource pack "Refined Сreate Buckets PV" to plain ASCII "Refined Create Buckets PV"
+
 ### Added
 - **Create: Jetpack Curios** 1.2.0 (`create_jetpack_curios-1.2.0-neoforge-1.21.1.jar`)
   - Create jetpacks and backtanks now work from the Curios back slot.

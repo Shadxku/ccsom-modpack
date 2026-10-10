@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1cda3cbc2a34379cb0acbf3b44a5cbb70b5cb80971654cd6b2d4da30cbe68155"
+hash = "19ce3a2fff8acb55279b706bfa65f1e8ccab53c7e584ac3a8024424ec0aaba2a"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
@@ -3586,7 +3586,7 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
 file = "options.txt"
-hash = "5f2cf3957500fd13d10e4709f95b5cdc6dcdc047a389ce7103cc8804354e01d4"
+hash = "ad08772d8d42c1b6d719694d37decc6a9c6e19eb7614b88a3369e15d67a8039e"
 preserve = true
 
 [[files]]
@@ -3654,7 +3654,7 @@ file = "resourcepacks/Refined Buckets 2.4.1.zip"
 hash = "198748b54fb15bc01883da58aa87da44bd8c15d41fef862613f1adb03bd33637"
 
 [[files]]
-file = "resourcepacks/Refined Сreate Buckets PV.zip"
+file = "resourcepacks/Refined Create Buckets PV.zip"
 hash = "056d55cb131df8b6897910c65dc134faf29cc1ebd38d669c764161151140f3bb"
 
 [[files]]
