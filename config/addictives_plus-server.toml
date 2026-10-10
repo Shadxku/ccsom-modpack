@@ -1,0 +1,2 @@
+#Whether drinking milk cures active withdrawal sickness. Toggle in-game with /addictivesplus milkwithdrawal <true|false>
+milkClearsWithdrawal = true

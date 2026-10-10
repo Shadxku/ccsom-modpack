@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"recipe":"aeroclaims:claim_block","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"stockmarket:market_terminal","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"rubberworks:crafting/rubber","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

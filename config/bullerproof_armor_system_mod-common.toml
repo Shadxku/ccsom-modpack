@@ -1,0 +1,50 @@
+#启用弹道护甲穿透系统
+enableBallisticSystem = true
+#启用TACZ（永恒枪械工坊）模组集成
+enableTaczIntegration = true
+#启用物品的等级提示信息
+enableTierTooltips = true
+#1级护甲的最大耐久值
+# Default: 200
+# Range: 1 ~ 10000
+armorTier1Durability = 200
+#2级护甲的最大耐久值
+# Default: 300
+# Range: 1 ~ 10000
+armorTier2Durability = 300
+#3级护甲的最大耐久值
+# Default: 400
+# Range: 1 ~ 10000
+armorTier3Durability = 400
+#4级护甲的最大耐久值
+# Default: 500
+# Range: 1 ~ 10000
+armorTier4Durability = 500
+#5级护甲的最大耐久值
+# Default: 700
+# Range: 1 ~ 10000
+armorTier5Durability = 700
+#6级护甲的最大耐久值
+# Default: 900
+# Range: 1 ~ 10000
+armorTier6Durability = 900
+#耐久损耗倍率（1.0 = 1伤害 = 1耐久）
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+durabilityLossMultiplier = 1.0
+#启用自定义耐久系统
+enableCustomDurability = true
+#维修包使用方式: true=长按使用, false=点击使用
+repairKitHoldToUse = true
+#初级维修包长按时间（秒）
+# Default: 2
+# Range: 1 ~ 30
+basicRepairTime = 2
+#中级维修包长按时间（秒）
+# Default: 3
+# Range: 1 ~ 30
+mediumRepairTime = 3
+#高级维修包长按时间（秒）
+# Default: 4
+# Range: 1 ~ 30
+advancedRepairTime = 4

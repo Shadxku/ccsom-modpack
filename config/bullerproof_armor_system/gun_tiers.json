@@ -1,0 +1,11 @@
+{
+  "gunTiers": {
+    "pillagers_gun:bazooka": 5,
+    "pillagers_gun:pistol": 2,
+    "pillagers_gun:assault_rifle": 3,
+    "pillagers_gun:sniper_rifle": 4,
+    "pillagers_gun:shotgun": 3,
+    "zombiekit:flamethrower": 2
+  },
+  "locked": {}
+}

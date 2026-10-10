@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"rubberworks:rubber_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rubberworks:rubber"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stockmarket:market_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeroclaims:claim_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_saw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:creative_physics_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mechanical_botany:mechanical_composter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"backpacked:backpack_dock"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"backpacked:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:ornithopterglider"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:ornithopterglider_lime","components":"{\"minecraft:damage\":324}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:ornithopterglider_lime"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_factory:sweet_berries_jam"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_factory:sweet_berries_jam_roll"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcafe:papaya_milk_tea"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcafe:redlove_milk_tea"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createfood:berry_cream_cake_slice_sweet_berry"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcafe:sweetberry_tea"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcafe:sweetberry_milk_tea"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"creategarnished:sweet_tea"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

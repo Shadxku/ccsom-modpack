@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":"backpacked:backpack","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"backpacked:backpack_dock","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

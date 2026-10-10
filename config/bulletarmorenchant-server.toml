@@ -1,0 +1,15 @@
+[kavler_vest]
+	#Item ID required in the offhand to fully repair the vest held in the main hand.
+	repairMaterialItemId = "minecraft:iron_ingot"
+	#Item ID required in the offhand to upgrade the base vest held in the main hand to BP 12.
+	reinforcedUpgradeItemId = "minecraft:diamond"
+	#Item ID required in the offhand to upgrade BP 12 to BP 14.
+	eliteUpgradeItemId = "minecraft:netherite_ingot"
+	#Item ID required in the offhand to upgrade BP 14 to BP 16.
+	bp14UpgradeItemId = "minecraft:obsidian"
+	#Item ID required in the offhand to upgrade BP 16 to BP 18.
+	bp16UpgradeItemId = "minecraft:emerald"
+	#Item ID required in the offhand to upgrade BP 18 to BP 20.
+	bp18UpgradeItemId = "minecraft:echo_shard"
+	#Item ID required in the offhand to upgrade BP 20 to BP 24.
+	bp20UpgradeItemId = "minecraft:nether_star"
