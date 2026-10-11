@@ -8,6 +8,14 @@ or players will be refused when they join.
 
 ---
 
+## 2026-10-11 (later)
+
+### Server-only (players don't need to install anything)
+- Added **Chunky** 1.4.23 (`Chunky-NeoForge-1.4.23.jar`) - world pre-generation
+- Added **spark** 1.10.124 (`spark-1.10.124-neoforge.jar`) - performance/memory profiler
+- View distance and simulation distance lowered from 10 to 8 (less RAM per player)
+- Smooth Chunk: unloaded chunks are now saved and freed after 60 seconds instead of 300
+
 ## 2026-10-11
 
 ### Changed
