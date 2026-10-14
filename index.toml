@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f2395cd5aa2e1ec00a21d0c46aaad9510fbb2856fbeab1873215ba87bb58a2dc"
+hash = "99c790e7e6b81f42ccd3e8aa0143345957de5326c52108c21d4754aced0dcbe7"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
@@ -398,7 +398,7 @@ hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
 file = "config/create-stuff-additions.toml"
-hash = "4c08a7618fd97db72401e6d8c99c4f0568117ed40c63fff9d2119f0122367b6b"
+hash = "e4a3988ff64923d8e08952951186cc6a67a5a04427766f5322c8e0a67077c5e5"
 
 [[files]]
 file = "config/create_aero_radar-server.toml"
@@ -1805,7 +1805,7 @@ file = "config/reliable_remover.json"
 hash = "6fc8161e2efb5d9fbe4f88aeb3fcbf93e2ea3a50be45f842de33b3769c1e6066"
 
 [[files]]
-file = "config/reliable_remover/enchant.json"
+file = "config/reliable_remover/enchant.json.disabled"
 hash = "b166d10fa0bcc9e9fc9d1bb109146c447594250501651f436ba07d827b21e658"
 
 [[files]]

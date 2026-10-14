@@ -20,6 +20,7 @@ or players will be refused when they join.
   - Aeroworks **Gyroscope**
   - Quark **Pickarang**
   - Create Thrusters **Entity Launcher**, **Physics Staff**, **Bi-Directional Gearshift**
+- Re-enabled the Create: Stuff 'n Additions enchantments **Chunk Eater** and **Above the Clouds**
 
 ## 2026-10-11 (later)
 
