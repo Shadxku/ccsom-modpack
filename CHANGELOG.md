@@ -8,6 +8,19 @@ or players will be refused when they join.
 
 ---
 
+## 2026-10-14
+
+### Config
+- Unbanned every item the pack author had disabled (Item Obliterator + Reliable Remover ban lists cleared):
+  - Create: Stuff 'n Additions **Flamethrower** and **Block Picker**
+  - TFMG **Flamethrower**
+  - Create Fantasizing **Block Placer**
+  - Create: Dreams & Desires **Diamond Shard**, **Gold Mixer**, **Gatling Breaker**
+  - Create Things & Misc **Crushed Magma**
+  - Aeroworks **Gyroscope**
+  - Quark **Pickarang**
+  - Create Thrusters **Entity Launcher**, **Physics Staff**, **Bi-Directional Gearshift**
+
 ## 2026-10-11 (later)
 
 ### Server-only (players don't need to install anything)

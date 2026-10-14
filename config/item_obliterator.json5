@@ -15,16 +15,7 @@
   // -----------------------------------------------------------
   // Items here will be unusable completely
   //    Example: minecraft:diamond
-  "blacklisted_items": [
-    "create_sa:flamethrower",
-    "tfmg:flamethrower",
-    "create_fantasizing:block_placer",
-    "dndesires:diamond_shard",
-    "dndesires:gold_mixer",
-    "dndesires:gatling_Breaker",
-    "create_things_and_misc:crushed_magma",
-    "create_sa:block_picker"
-  ],
+  "blacklisted_items": [],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
   // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.

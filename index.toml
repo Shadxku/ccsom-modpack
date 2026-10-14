@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "a3d1b934ac48d67246e732cfcdcac7dce41b5463af235793fac4383fd9a872ec"
+hash = "f2395cd5aa2e1ec00a21d0c46aaad9510fbb2856fbeab1873215ba87bb58a2dc"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
@@ -1302,7 +1302,7 @@ hash = "92c35ca833c06658d82d5e0d4a2adeec09bf6ec14dd7b5ef6c91eb95f9eda2a0"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "83675a068b6024e7731514a308558e5e26250571104c45c285752a49b6df7446"
+hash = "c60015513c118a6ed0a9eb30a007284e976a3de7cf413553a8f38299c29cb14d"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1802,7 +1802,7 @@ hash = "b950145c8e443b36bab070f8b7d821ebff8ee8f61eb74669bd8d7ff67d7f8cf0"
 
 [[files]]
 file = "config/reliable_remover.json"
-hash = "167d3e193a066e9ad7149a7fd0418e2a699a3fc44b9094ec8942b4ebad9b766f"
+hash = "6fc8161e2efb5d9fbe4f88aeb3fcbf93e2ea3a50be45f842de33b3769c1e6066"
 
 [[files]]
 file = "config/reliable_remover/enchant.json"

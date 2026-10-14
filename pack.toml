@@ -1,12 +1,12 @@
 name = "CCSoM - All of Create Aeronautics"
 author = "Shadxku"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "022c3069fe153317c7b179bbbe68e753b7502e793b0f27cdfac1d24dce48e098"
+hash = "4e7eff8d98855440a028a6f2336992843875c94de13ec3497398b131430b9372"
 
 [versions]
 minecraft = "1.21.1"
